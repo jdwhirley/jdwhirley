@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdwhirley
 - 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning SQL, Python, and Tableau
+- 🌱 I’m currently learning SQL, Python, and Tableau.
 - 📫 Check out my blog https://www.tumblr.com/blog/jdwhirley
 
 <!---
