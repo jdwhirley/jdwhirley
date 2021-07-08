@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jdwhirley
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning SQL, Python, and Tableau
-- 📫 Check out my blog https://www.tumblr.com/blog/jdwhirley
+- 📫 Check out my LinkedIn: linkedin.com/in/jdwhirley 
 
 <!---
 jdwhirley/jdwhirley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
