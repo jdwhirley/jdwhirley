@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdwhirley
-- 👀 I’m interested in data analysis; take a look at my demographic data analyzer repository!
+- 👀 I’m interested in data analysis! (Take a look at my demographic data analyzer repository for some of my work in Python.)
 - 🌱 I’m currently learning SQL, Python, and Tableau
 - 📫 Check out my LinkedIn: linkedin.com/in/jdwhirley 
 
